@@ -11,3 +11,16 @@ C:\Users\Anthony\source\repos\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.
 C:\Users\Anthony\source\repos\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
 C:\Users\Anthony\source\repos\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
 C:\Users\Anthony\source\repos\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.exe
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.deps.json
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.json
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\Anthony\source\repos\IT-1050\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
