@@ -1,0 +1,13 @@
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.exe
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.deps.json
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.runtimeconfig.json
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.dll
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\bin\Debug\netcoreapp3.1\Assignment 5.pdb
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.dll
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.pdb
+C:\Users\Anthony\source\repos\IT-1050\Assignment 5\obj\Debug\netcoreapp3.1\Assignment 5.genruntimeconfig.cache
