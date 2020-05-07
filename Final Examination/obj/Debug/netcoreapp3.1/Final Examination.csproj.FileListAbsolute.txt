@@ -1,0 +1,13 @@
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\bin\Debug\netcoreapp3.1\Final Examination.exe
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\bin\Debug\netcoreapp3.1\Final Examination.deps.json
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\bin\Debug\netcoreapp3.1\Final Examination.runtimeconfig.json
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\bin\Debug\netcoreapp3.1\Final Examination.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\bin\Debug\netcoreapp3.1\Final Examination.dll
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\bin\Debug\netcoreapp3.1\Final Examination.pdb
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.dll
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.pdb
+C:\Users\Anthony\source\repos\IT-1050\Final Examination\obj\Debug\netcoreapp3.1\Final Examination.genruntimeconfig.cache
